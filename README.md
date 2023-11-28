@@ -1,2 +1,2 @@
 # speechToText
-This program allows users to transcribe their voices to text in real-time.
+This directory includes Python code that allows users to transcribe their speech to text in real-time.
