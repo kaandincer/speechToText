@@ -10,6 +10,7 @@ There are 4 folders in this repo. The descriptions of what is in each is as foll
       <li> <strong> speechToText_App.py: </strong> The final version of the UI. It transcribes speech to text in real-time, and when recording is stopped converts the text output to a downloadable txt file. <br></li>
       <li> <strong> speech_recognition.py:</strong> Has a basic UI of starting recording by clicking abutton, outputting speech as text on the page, and stopping recording (and the program). <br> </li>
       <li> <strong> audio_file_transcript.py:</strong> The UI enables a user to input an audio file, and outputs the speech as text on the page with Speaker labels on each separate speaker. <br> </li>
+      <li><strong>20230607_me_canadian_wildfires.mp3: </strong> The audio file we use to test our program. </li>
     </ul>
   </li><br>
   <li> <strong> AWS:</strong> The real-time speech to text transcriber using AWS Transcribe, that has all the necessary functionality but no UI, so the transcription is done in the terminal. </li><br>
