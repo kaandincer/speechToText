@@ -1,7 +1,7 @@
 # speechToText
 This repository includes Python code that allows users to transcribe their speech to text in real-time. 
 
-This repo contains code from the private AutoDocumentation repository of <a href="https://www.vitalwise-technology.com/"> VitalWise</a>, where the client-ready software is built.
+This repo contains code from my company,<a href="https://www.vitalwise-technology.com/"> VitalWise's,</a> private AutoDocumentation repository, where the client-ready software is built. 
 
 There are 4 folders in this repo. The descriptions of what is in each is as follows:
 <br>
