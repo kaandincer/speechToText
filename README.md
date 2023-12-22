@@ -16,7 +16,7 @@ There are 4 folders in this repo. The descriptions of what is in each is as foll
     </ul>
   </li><br>
   <li> <strong> AWS:</strong> The real-time speech to text transcriber using AWS Transcribe, that has all the necessary functionality but no UI, so the transcription is done in the terminal. </li><br>
-  <li> <strong> AssembleAI:</strong> The real-time speech to text transcriber that has all the necessary functionality but no UI, so the transcription is done in the terminal. </li><br>
+  <li> <strong> AssemblyAI:</strong> The real-time speech to text transcriber that has all the necessary functionality but no UI, so the transcription is done in the terminal. </li><br>
   <li> <strong> Jupyter Notebook: </strong> The real-time speech to text transcriber created in Jupyter Notebook, solely using pyaudio. No Assembly AI was used. </li><br>
   <li> <strong> Non-API Speech-To-Text </strong> The real-time speech to text transcriber created in Python, solely using pyaudio. No Assembly AI was used. The transcribed text is output onto the terminal.</li><br>
 </ol>
